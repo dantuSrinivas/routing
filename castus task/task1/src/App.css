@@ -1,0 +1,84 @@
+.items {
+  display: block;
+  background-color: whitesmoke;
+}
+img {
+  width: 100px;
+}
+.events {
+  background-color: white;
+  margin: 5px;
+}
+header{
+  height: 110px;
+  background-color: rgb(170, 51, 217);
+}
+.labelsDiv{
+  margin-top:50px ;
+  display: grid;
+  align-content: left;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+}
+label{
+  opacity: 0.5;
+}
+.header{
+  display: flex;
+}
+.labelsDiv2{
+  margin-top:50px ;
+  display: flex;
+  align-content: left;
+  padding: 10px;
+  margin: 5px;
+}
+.endEvent{
+  float: left;
+  margin: 5px;
+  padding: 7px;
+  background-color: transparent;
+  color: red;
+  border: red;
+  font-weight: 10;
+  border: 1px solid red;
+}
+.Green{
+  float: right;
+  margin: 5px;
+  padding: 7px;
+  background-color: green;
+  color: white;
+  border: none;
+  font-weight: 10;
+}
+.imgggg{
+  width: 700px;
+}
+.mainDiv{
+  background-color: whitesmoke;
+}
+.asideDiv{
+  background-color: white;
+}
+.verified{
+  margin-left: 1500px;
+  margin-top: 40px;
+}
+.verify{
+  display: flex;
+  font-size: 10px;
+}
+.iconsSmall{
+  width: 20px;
+  margin: 5px;
+}
+.starting{
+  display: flex;
+}
+nav{
+  text-align: center;
+}
+.text{
+  margin: 20px;
+}
